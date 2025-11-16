@@ -579,13 +579,13 @@ Q.stampfer_advisor = 0; // Friedrich Stampfer
 set-bg: img/map_2.jpg
 new-page: true
 
-> *"Such a general development cannot be attributed to the false tactics of any single party or to the mistakes of individual leaders. On the contrary, the conduct of individual leaders is determined largely by the sentiments of the people as a whole. It would be erroneous, however, to regard the sentiments of the moment as reflecting the natural make-up and character of the people. They are merely the consequence of the special circumstances which have brought about this profound degradation of the entire nation."*
+> *"What a stupendous, what an incomprehensible machine is man! who can endure toil, famine, stripes, imprisonment or death itself in vindication of his own liberty, and the next moment be deaf to all those motives whose power supported him thro’ his trial, and inflict on his fellow men a bondage, one hour of which is fraught with more misery than ages of that which he rose in rebellion to oppose."*
 
- - Karl Kautsky, *Hitlerism and Social Democracy*, 1934
+ - Thomas Jefferson, *Extract from Thomas Jefferson to Jean Nicolas Démeunier*, 1786
 
 This is a game of alternate history. While historical accuracy is a major concern, keep in mind that this is a *game*, and that any divergence from actual events will necessarily have to involve some element of make-believe. Nevertheless, please let the author know if there are any glaring mistakes.
 
-For more information on the politics and government of the German Republic, see the "Library" page on the top left. If this is your first time playing the game, it is strongly recommended that you read at least some of this information.
+For more information on the politics of the United States in the 1850s, see the "Library" page on the top left. If this is your first time playing the game, it is strongly recommended that you read at least some of this information.
 
 - @1928_easy: Begin (easy difficulty)
 - @1928_main: Begin (normal difficulty)
@@ -625,10 +625,10 @@ audio: shuffle music/1928_1930/FruhlingsliedMendelssohn.mp3 music/1928_1930/AUF_
 new-page: true
 go-to: main if difficulty >= 0; main.main_easy if difficulty < 0
 
-= 1928
+= 1852
 
-It is a bright time for German democracy. After a period of struggle, inflation is finally under control, and the economy is expanding steadily. In foreign policy, we have reached agreements with the Western powers and the Soviet Union that might make genuine peace a reality. 
+The Mexican-American War and subsequent expansion of America into vast westward territories reopened the floodgates regarding the slavery issue, and although total catastrophe was temporarily averted in the Compromise of 1850, sectional strife still runs rampant--with Northern 'free' states broadly favoring the containment of slavery, and Southern 'slave' states pushing for its expansion. Further confrontation seems inevitable as the status of most Western territories (e.g., Utah, New Mexico, Kansas, etc) remain undecided and hotly contentious.
 
-Now, the task of Social Democracy is to prepare for the next election. The bourgeois-right government of Wilhelm Marx is unpopular, and we stand to gain. Perhaps the next government will have a socialist majority.
+Entering 1852, the Free Soil Party stands as the most prominent anti-slavery party and the largest 'third' party in the nation; having won just over 10% of the vote in 1848 under Van Buren. However, Free Soil's problem lies within its status as a mere 'third' party - relegated to the sidelines and seen as radicals even in the 'free' Northern states - with the nature of the party leaving little room for it to expand its voter base. Until they (or another anti-slavery party) attain elected power, the ulcer of slavery shall almost certainly remain unchecked.
 
 
